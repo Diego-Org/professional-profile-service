@@ -153,7 +153,7 @@ Serviços, avaliações e disponibilidade podem compor a apresentação pública
 - Validar os formatos e protocolos permitidos nos links profissionais.
 - Preservar a integridade da referência entre perfil e conta.
 - Não confirmar alterações que não tenham sido persistidas.
-
+- teste
 ## Fora do escopo do MVP
 
 - Portfólio interno com galeria de fotos.
